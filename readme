@@ -15,3 +15,4 @@ sample.py           Divide the edge set of the network into 10 subsets for 10 fo
 utils.py            network embeding for AROPE algorithm  网络嵌入
 weight.py           weight every links of a unweighted network 给无权的网络赋权
 weightless.py       deleting links with small weight 删除权小的链接
+networks            PPI networks data
